@@ -1,6 +1,6 @@
 # sell
 
-> sell app
+> 仿饿了么app，使用vue2.0 + vue-router
 
 ## Build Setup
 
